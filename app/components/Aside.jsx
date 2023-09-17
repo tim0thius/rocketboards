@@ -7,6 +7,7 @@
  *  ...
  * </Aside>
  * ```
+ * 
  */
 export function Aside({children, heading, id = 'aside'}) {
   return (
